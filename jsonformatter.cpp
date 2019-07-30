@@ -1,4 +1,3 @@
-```c++
 class builder
 {
  public:
@@ -28,4 +27,3 @@ void builder::send()
 }
 
 builder build; //This line creates an instance of the class builder. The instance is called build. Refer to step 4a for further explanation.
-```
